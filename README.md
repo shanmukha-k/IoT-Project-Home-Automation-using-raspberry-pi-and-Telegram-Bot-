@@ -23,3 +23,14 @@ Finally, Execution:
 2. Make your every component is connected correctly.
 3. Run the python code in SSH terminal and test the model
 
+Components required:
+1. Raspberry Pi
+2. Groove Pi
+3. Groove LED
+4. Ultra sonic Ranger
+5. Groove Connectors/Groove jumpers
+6. An SD Card
+
+
+Demo:
+![image](https://github.com/shanmukha-k/IoT-Project-Home-Automation-using-raspberry-pi-and-Telegram-Bot-/assets/99649721/d810478b-ab7f-41e2-a4e5-5352026981f9)
