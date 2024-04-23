@@ -20,7 +20,7 @@ Secondly, Coding:
 
 Finally, Execution:
 1. Make sure all the components are working properly use some testing codes first before using the components for the main code.
-2. Make your every component is connected correctly.
+2. Make sure every component is connected correctly.
 3. Run the python code in SSH terminal and test the model
 
 Components required:
