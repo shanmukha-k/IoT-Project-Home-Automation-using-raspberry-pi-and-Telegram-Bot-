@@ -1,36 +1,43 @@
-# IoT-Project-Home-Automation-using-raspberry-pi-and-Telegram-Bot-
-A Project based on implementing home automation using raspberry pi as CPU, Groove pi as Integrating unit, and Telegram Bot as User interaction unit.
+# 🏠 IoT Project: Home Automation using Raspberry Pi and Telegram Bot 🤖
 
-We provided the python code which enables the CPU to get instructions from user through Telegram Bot and execute the actions accordingly. And also monitors the surroundings and detectes if any intrusion occured
-and then passes the alert notification through telegram.
+This project is focused on implementing home automation using a Raspberry Pi as the CPU, Groove Pi as the integrating unit, and Telegram Bot as the user interaction unit.
 
-Firstly, it is important to setup the model properly:
+We provide Python code enabling the CPU to receive instructions from users through a Telegram Bot and execute actions accordingly. The system also monitors surroundings for intrusions and sends alert notifications through Telegram.
 
-1. Install OS to write it in SD card of raspberry pi - https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-full.img.xz?_gl=1*1n5ej4m*_ga*MTA2Mzk4Mjk5OS4xNzA4NTE5MTk4*_ga_22FD70LWDS*MTcxMjEzODM2Mi41LjEuMTcxMjEzODM3OS4wLjAuMA..
-2. Write the SD Card using Raspberry pi OS application.
-3. Mention a hotspot or wifi credential after writing the SD to enble raspberry pi connect to a network.
-4. Enable SSH
-5. And access raspberry pi using SSH 
-6. Follow this video to setup easily - https://www.youtube.com/watch?v=I-vCFP2jD1g
+## Setup
 
+### 1. Raspberry Pi OS Installation
+- [Install Raspberry Pi OS](https://downloads.raspberrypi.com/raspios_full_armhf/images/raspios_full_armhf-2024-03-15/2024-03-15-raspios-bookworm-armhf-full.img.xz)
+- Write the SD Card using Raspberry Pi OS application.
+- Configure a hotspot or Wi-Fi credentials after writing the SD to enable the Raspberry Pi to connect to a network.
+- Enable SSH.
+- Access Raspberry Pi using SSH.
+- Follow this video tutorial for easy setup: [Setup Video](https://www.youtube.com/watch?v=I-vCFP2jD1g)
 
-Secondly, Coding:
-1. Create a python file and write the code in the file in raspberry pi.
-2. Update the code accordingly and make sure you replace the BOT token ID, Chat ID and API's token key file path (.json file) correctly
+### 2. Coding
 
-Finally, Execution:
-1. Make sure all the components are working properly use some testing codes first before using the components for the main code.
-2. Make sure every component is connected correctly.
-3. Run the python code in SSH terminal and test the model
+1. Create a Python file and write the code on the Raspberry Pi.
+2. Update the code accordingly and ensure you replace the BOT token ID, Chat ID, and API's token key file path (.json file) correctly.
 
-Components required:
+## Execution
+
+1. Ensure all components are working properly by using some testing codes before running the main code.
+2. Verify that every component is connected correctly.
+3. Run the Python code in the SSH terminal and test the model.
+
+## Components Required
+
 1. Raspberry Pi
-2. Groove Pi
-3. Groove LED
-4. Ultra sonic Ranger
-5. Groove Connectors/Groove jumpers
+2. Grove Pi
+3. Grove LED
+4. Ultrasonic Ranger
+5. Grove Connectors/Grove Jumpers
 6. An SD Card
 
+## Demo
 
-Demo:
 ![image](https://github.com/shanmukha-k/IoT-Project-Home-Automation-using-raspberry-pi-and-Telegram-Bot-/assets/99649721/d810478b-ab7f-41e2-a4e5-5352026981f9)
+
+## Contact 📧
+
+For any inquiries or support, please contact Shanmukha Sai via email at [shanmukhasai020504@gmail.com].
