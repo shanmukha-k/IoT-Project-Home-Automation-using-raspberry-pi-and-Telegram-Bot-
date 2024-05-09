@@ -40,4 +40,4 @@ We provide Python code enabling the CPU to receive instructions from users throu
 
 ## Contact 📧
 
-For any inquiries or support, please contact Shanmukha Sai via email at [shanmukhasai020504@gmail.com].
+For any inquiries or support, please contact via email at [shanmukhasai020504@gmail.com].
